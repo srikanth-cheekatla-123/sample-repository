@@ -1,4 +1,8 @@
 hello world!
 sample code for pullrequest process.
 added another step:
+<<<<<<< HEAD
 merge conflict step
+=======
+added fourth line
+>>>>>>> 704d67428d4d9239a283881c5aa9eead53f43155
